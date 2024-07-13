@@ -1,2 +1,4 @@
-# CalculateBasicSalary
-Calculate Basic salary, Tax Income and social Security
+# Subjects
+- calculate income tax
+- calculate social security
+- calculate Net Salary
